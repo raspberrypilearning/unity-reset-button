@@ -40,10 +40,10 @@ Go to the Hierarchy window and click on the ‘Button’ GameObject.
 
 In the Inspector window, scroll down until you see the ‘On Click()’ component.
 
-Click on the the + sign to create a new action.
+Click on the + sign to create a new action.
 
 Drag the ‘Ball’ GameObject from the Hierarchy window to the Object property of the action.
 
-Click on the function property and select Reset > resetAll() to call the resetAll method from your Reset script.
+Click on the function property and select **Reset > resetAll()** to call the `resetAll` method from your Reset script.
 
 ![The 'Game' view with a 'Reset' button added to the scene.](images/reset-button.png)
